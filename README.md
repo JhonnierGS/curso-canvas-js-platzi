@@ -1,7 +1,7 @@
 # curso-canvas-js-platzi
 
 ## **Table of Contents**
-#### [Texto y dibujo en Canvas](https://github.com/pandao/editor.md "Heading link")
+- [Texto y dibujo en Canvas](Texto-y-dibujo-en-Canvas)
 
 
 
